@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Projet</title>
+</head>
+
+<body>  
+
+  
+    <div classe="header"
+      <img src="#" alt="">
+      <div align="center">
+       <a href="">Acceuil</a>
+       <a href="contact.html">Contact</a>
+      </div>
+    </div>
+</style>
+<img src="logo.png" width="200px" height="200px">
+</select>
+
+    <style>
+        body {
+          background-image: url("v2.PNG");
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: cover;
+        }
+        </style>
+        <table border="1">
+
+
+
+          
+          
+
+<!--les balises de style-->
+<h1 align="center"><p style="color:rgb(207, 15, 15);">Bienvenue location de voiture</p></h1>
+<h7<p style="color:white;">Type de voiture: </p></h7> <select>
+    
+    <option value="c">Citroen</option>
+    <option value="m">Mercedes-Benz</option>
+    <option value="mb">Peugeot</option>
+    <option value="mb">Audi</option>
+    <option value="mb">Renault</option>
+    <option value="mb">BMW</option>
+</select><br>
+
+<h7<p style="color:white;">Lieu de Prise en charge: </p></h7> <select> 
+<option value="a">Tunis</option>
+<option value="b">Nabeul</option>
+<option value="c">Kelibia</option>
+<option value="d">Hamamet</option>
+</select><br>
+
+<h7<p style="color:white;">Facturation:</p></h7> <input type="radio"> <h7<p style="color:white;">Par Télephone</p></h7>
+<input type="radio"> <h7<p style="color:white;">Par E-Mail </p></h7>
+</select><br>
+
+<input type="submit" value="Suivant">
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+
+
+
